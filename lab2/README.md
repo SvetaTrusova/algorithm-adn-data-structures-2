@@ -1,7 +1,7 @@
 # Лабораторная работа №2: `Сортировка слиянием. Метод декомпозиции`
 
-Студентка ИТМО, Блинова Полина Вячеславовна 465232
-## Вариант 3
+Студентка ИТМО, Трусова Светлана Викторовна 467766
+## Вариант 22
 ### Навигация
 
 1. [Задача №1. Сортировка слиянием](./task1)
@@ -18,11 +18,11 @@
 ## Запуск проекта
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/blinovapolina/asd_itmo.git
+   git clone https://github.com/SvetaTrusova/algorithms-and-data-structures-2.git
    ```
 2. Перейдите в папку с проектом:
    ```bash
-   cd asd_itmo/lab2
+   cd algorithms-and-data-structures-2/lab2
    ```
 3. **Запуску всех задач**
     ```bash
@@ -35,5 +35,5 @@
 ## Тестирование
 Для запуска тестов выполните:
 ```bash
-python -m unittest -v lab2.run_tests
+python -m unittest -v lab2.run_tests.py
 ```

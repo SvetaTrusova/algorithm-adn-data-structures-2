@@ -29,11 +29,11 @@
 ## Запуск проекта
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/SvetaTrusova/algorithms-and-data-structures
+   git clone https://github.com/SvetaTrusova/algorithms-and-data-structures-2.git
    ```
 2. Перейдите в папку с проектом:
    ```bash
-   cd algorithms-and-data-structures/lab2
+   cd algorithms-and-data-structures-2/lab2
    ```
 3. Запустите программу:
    ```bash

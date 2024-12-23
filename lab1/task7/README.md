@@ -41,7 +41,7 @@
    ```
 2. Перейдите в папку с проектом:
    ```bash
-   cd algorithms-and-data-structures\lab1\task7\tests
+   cd algorithms-and-data-structures-2\lab1\task7\tests
    ```
 3. Запустите программу:
    ```bash

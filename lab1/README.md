@@ -20,7 +20,7 @@
    ```
 2. Перейдите в папку с проектом:
    ```bash
-   cd algorithms-and-data-structures/lab1
+   cd algorithm-and-data-structures-2/lab1
    ```
 3. **Запуску всех задач**
     ```bash
