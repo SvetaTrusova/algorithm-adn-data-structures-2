@@ -9,9 +9,9 @@
 
 ## Input / Output
 
-| Input                                                             | Output        |
-|-------------------------------------------------------------------|---------------|
-| 8<br/>A 2<br/>A 5<br/>A 3<br/>? 2<br/>? 4<br/>A 2<br/>D 2<br/>? 2 | Y<br/>N<br/>N |
+| Input | Output |
+| ----- | ------ |
+| 8<br/>A 2<br/>A 5<br/>A 3<br/>? 2<br/>? 4<br/>A 2<br/>D 2<br/>? 2| Y<br/>N<br/>N|
 
 ## Ограничения по времени и памяти
 
@@ -22,11 +22,11 @@
 ## Запуск проекта
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/SvetaTrusova/algorithms-and-data-structures-2.git
+   git clone https://github.com/SvetaTrusova/algorithm-and-data-structures-2.git
    ```
 2. Перейдите в папку с проектом:
    ```bash
-   cd algorithms-and-data-structures-2/lab6
+   cd algorithm-and-data-structures-2/lab6
    ```
 3. Запустите программу:
    ```bash
@@ -37,5 +37,5 @@
 ## Тестирование
 Для запуска тестов выполните:
 ```bash
-    python -m unittest -v lab6.task1.tests.test_6_1.py
+    python -m unittest -v lab6.task1.tests.test_6_7.py
 ```
