@@ -37,7 +37,7 @@
 ## Запуск проекта
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/SvetaTrusova/algorithms-and-data-structures
+      git clone https://github.com/SvetaTrusova/algorithm-and-data-structures-2.git
    ```
 2. Перейдите в папку с проектом:
    ```bash
@@ -45,18 +45,18 @@
    ```
 3. Запустите программу:
    ```bash
-   python main.py
+   python task7.py
    ```
 
 4. Запуск тестов:
    Из текущей директории введите в терминал следущее:
    ```bash
-   python -m unittest tests.main
+   python -m unittest tests.task7
    ```
 
 
 ## Тестирование
 Для запуска тестов выполните:
 ```bash
-    python -m unittest tests.main.py
+    python -m unittest tests.task7.py
 ```

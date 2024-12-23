@@ -24,7 +24,7 @@
 ## Запуск проекта
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/SvetaTrusova/algorithms-and-data-structures
+      git clone https://github.com/SvetaTrusova/algorithm-and-data-structures-2.git
    ```
 2. Перейдите в папку с проектом:
    ```bash
@@ -32,17 +32,17 @@
    ```
 3. Запустите программу:
    ```bash
-   python src/main.py
+   python src/task3.py
    ```
 
 4. Запуск тестов:
    ```bash
-   python -m unittest discover -s tests -p "main.py"
+   python -m unittest discover -s tests -p "task3.py"
    ```
 
 
 ## Тестирование
 Для запуска тестов выполните:
 ```bash
-    python -m unittest discover -s tests -p "main.py"
+    python -m unittest discover -s tests -p "task3.py"
 ```

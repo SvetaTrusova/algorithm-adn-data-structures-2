@@ -40,17 +40,17 @@
    ```
 3. Запустите программу:
    ```bash
-   python src/main.py
+   python src/task1.py
    ```
 
 4. Запуск тестов:
    ```bash
-   python -m unittest discover -s tests -p "main.py"
+   python -m unittest discover -s tests -p "task1.py"
    ```
 
 
 ## Тестирование
 Для запуска тестов выполните:
 ```bash
-    python -m unittest discover -s tests -p "main.py"
+    python -m unittest discover -s tests -p "task1.py"
 ```
